@@ -91,4 +91,10 @@ export default {
   font-weight: 400;
 }
 
+@media screen and (max-width: 720px){
+  .content > img{
+    display: none;
+  }
+}
+
 </style>
